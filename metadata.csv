@@ -1,0 +1,29 @@
+instrument_serial_number, not known
+instrument_software, not known
+instrument_software_version, not known
+calibration_sensitivity, not applicable
+calibration_certification_date, not applicable
+calibration_certification_url, not applicable
+averaging_interval, 1 minute
+sampling_interval, 1 minute
+project_principal_investigator, Grant Forster
+project_principal_investigator_email, g.forster@uea.ac.uk
+project_principal_investigator_url, https://orcid.org/0000-0003-1783-9307
+project, WAO & NCAS Long Term Measurement Program
+creator_name, Grant Forster
+creator_email, g.forster@uea.ac.uk
+creator_url, https://orcid.org/0000-0003-1783-9307
+processing_software_url, https://github.com/ncasuk/uea-aws-2-software
+processing_software_version, v1.0.0
+product_version, v2.0
+processing_level, 1, type=int
+platform_type, stationary_platform
+title, Time series of Temperature, Relative Humiditiy, Wind Speed, Wind Direction, and Pressure
+featureType, timeSeries
+latitude, 52.9506
+longitude, 1.1219
+geospatial_bounds, 52.9506N, 1.1219E
+platform_altitude, 10 m
+location_keywords, Weybourne, Norfolk, UK
+comment, None
+acknowledgement, Acknowledgement of UEA as the data provider is required whenever and wherever these data are used

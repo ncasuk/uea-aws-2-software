@@ -1,0 +1,2 @@
+polars==0.20.14
+ncas-amof-netcdf-template==2.4.0

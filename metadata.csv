@@ -15,7 +15,7 @@ creator_email, g.forster@uea.ac.uk
 creator_url, https://orcid.org/0000-0003-1783-9307
 processing_software_url, https://github.com/ncasuk/uea-aws-2-software
 processing_software_version, v1.0.0
-product_version, v2.0
+product_version, v1.0
 processing_level, 1, type=int
 platform_type, stationary_platform
 title, Time series of Temperature, Relative Humiditiy, Wind Speed, Wind Direction, and Pressure
